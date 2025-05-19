@@ -1,1 +1,2 @@
-Modify README in main branch
+# GitHubCloneProject
+Objective: Practice feature branching and merging.
